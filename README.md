@@ -14,3 +14,6 @@ for sales analysis.
 - Sales Analysis
 - Profit Analysis
 - Quantity Analysis
+
+- ## Dashboard Preview
+![Dashboard](screenshot.png)
